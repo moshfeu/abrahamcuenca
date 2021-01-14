@@ -1,25 +1,26 @@
-### Hi, I'm Abe!  👓 💻☕
-
-*Software Engineer at [Edmunds.com](https://technology.edmunds.com/)* 🚘
+### Hi, I'm Abe! 👋 
+👓💻☕ 
 
 [![Twitter: YourWebDevGuy](https://img.shields.io/twitter/follow/yourwebdevguy?style=social)](https://twitter.com/YourWebDevGuy)
 [![Linkedin: AbrahamCuenca](https://img.shields.io/badge/-abrahamcuenca-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abrahamcuenca/)](https://www.linkedin.com/in/abrahamcuenca/)
 [![GitHub abrahamcuenca](https://img.shields.io/github/followers/abrahamcuenca?label=follow&style=social)](https://github.com/abrahamcuenca)
-
 ![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=abrahamcuenca.abrahamcuenca&color=00cf00)
-### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="50"> A little more about me...  
 
-```javascript
-const abe = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, C#, Java],
-  tools: [React, Redux, GraphQL, Node, Styled-Components, Jest, Docker],  
-  architecture: ["microservices", "event-driven", "design system pattern"],
-  challenge: "I am building an RPG game using Godot and C#"
-}
-```
+I am a *Software Engineer at [Edmunds.com](https://technology.edmunds.com/)* 🚘
+I currently work on the CarCode team. In my spare time I play lots of games.
+One of my side projects/goals is building a game with Godot.
 
-<img src="https://media.giphy.com/media/3o85xjSETVG3OpPyx2/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so feel free to say <b>Hi!</b>. 😄</em>
+- 🔭 I’m currently working on an RPG Game
+- 🌱 I’m currently learning Spark and Databricks
+- 👯 I’m looking to collaborate on Game Development!
+- 🤔 I’m looking for help with Game Design
+- 💬 Ask me about Fullstack JavaScript (MERN stack)
+- 📫 How to reach me: Twitter or LinkedIn! 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: My first coding project was a "text-based game" made with `.bat` files 🙃 (oh and I'm a Night 🦉)
+
+### <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="150">
+
+<p><img src="https://github-readme-stats.vercel.app/api?username=abrahamcuenca&show_icons=true&theme=dracula" alt="abrahamcuenca" /></p>
 
 ---
-⚡ Fun fact: My first coding project was a "text-based game" made with `.bat` files 🙃
